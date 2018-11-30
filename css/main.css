@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+/*this will give padding around the list only*/
+ul {
+	padding: 5px 0px;
+}
+h1 {
+	font-size: 3em;
+	padding: 25px;
+	margin: 0;
+}
+nav {
+	background-color: #EC7357;
+	padding: 10px;
+	text-align: center;
+}
+li{
+	display: inline;
+	background-color:#FBFFB9;
+	margin: 20px;
+	padding: 10px;
+}
+a {
+	color: #754F44;
+	text-decoration: overline;
+}
+section {
+	background-color: #FDD692;
+	text-align: center;
+}
+.box {
+	display: inline-block;
+	width: 30%;
+}
+img {
+	width: 100%;
+}
+
+p{
+	background-color: #EC7357;
+	border: 3px solid black;
+	padding: 10px;
+}
+p:first-letter {
+	color: #FBFFB9;
+	font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
